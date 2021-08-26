@@ -1,0 +1,5 @@
+Realizar un programa que simule las funciones basicas de un cajero automatico.
+1. Consulta de saldo
+2. Retiro de efectivo
+3. Deposito de efectivo
+4. Salir (finalizar operacion)
